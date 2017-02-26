@@ -6,7 +6,7 @@ import {Component} from 'angular2/core';
 })
 export class AppComponent {
     count = 0;
-    tittle = "Hello Word";
+    tittle = "Hello World";
     increaseCount(){
         this.count++;
     }
